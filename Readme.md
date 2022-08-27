@@ -39,8 +39,8 @@ $ npm install newday
 
   ## Docs & Community
 
-  * [Website and Documentation](http://puzzleartcollection.website/) - [[website repo](https://https://github.com/LifeCoachRay/newday)]
-  * [GitHub Organization](https://https://github.com/LifeCoachRay/newday/tree/main/lib/middleware) for Official Middleware & Modules
+  * [Website and Documentation](https://puzzleartcollection.website/) - [[website repo](https://github.com/LifeCoachRay/newday)]
+  * [GitHub Organization](https://github.com/LifeCoachRay/newday/tree/main/lib/middleware) for Official Middleware & Modules
   * [E-Mail](support@mypockettokenfoundation.org) for support and questions.
 
 
