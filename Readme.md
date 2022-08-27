@@ -37,6 +37,12 @@ $ npm install newday
   * Content negotiation
   * Executable for generating applications quickly
 
+  ## Docs & Community
+
+  * [Website and Documentation](http://puzzleartcollection.website/) - [[website repo](https://https://github.com/LifeCoachRay/newday)]
+  * [GitHub Organization](https://https://github.com/LifeCoachRay/newday/tree/main/lib/middleware) for Official Middleware & Modules
+  * [Gitter](support@mypockettokenfoundation.org) for support and questions.
+
 
 ### Security Issues
 
@@ -83,7 +89,7 @@ $ npm start
 
 The original author of newday is [TJ Holowaychuk](https://github.com/tj)
 
-The current lead maintainer is [Life Coach Ray](https://github.com/lifecoachray)
+The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
 
 
 ## License
