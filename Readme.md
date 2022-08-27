@@ -83,7 +83,7 @@ $ npm start
 
 The original author of newday is [TJ Holowaychuk](https://github.com/tj)
 
-The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
+The current lead maintainer is [Life Coach Ray](https://github.com/lifecoachray)
 
 
 ## License
