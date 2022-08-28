@@ -2,8 +2,8 @@
   Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
  
 ```js
-const newday1 = require('newday1')
-const app = newday1()
+const newday01 = require('newday01')
+const app = newday01()
 
 app.get('/', function (req, res) {
   res.send('Hello World')
@@ -24,7 +24,7 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm install newday1
+$ npm install newday01
 ```
 
 ## Features
@@ -53,7 +53,7 @@ If you discover a security vulnerability in newday, please see [Security Policie
   The quickest way to get started with newday is to create your own app:
 
 ```bash
-$ newday1 /tmp/foo && cd /tmp/foo
+$ newday01 /tmp/foo && cd /tmp/foo
 ```
 
   Install dependencies:
