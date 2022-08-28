@@ -14,7 +14,7 @@
     "Life Coach Ray <support@mypockettokenfoundation.org>"
   ],
   "license": "MIT",
-  "repository": "lifecoachray/newday",
+  "repository": "https://github.com/LifeCoachRay/newday",
   "homepage": "https://github.com/LifeCoachRay/newday",
   "keywords": [
     "express",
