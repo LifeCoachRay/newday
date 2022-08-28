@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "newday",
   "description": "Fast, unopinionated, minimalist web framework",
   "version": "4.17.1",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
@@ -10,11 +10,12 @@
     "Guillermo Rauch <rauchg@gmail.com>",
     "Jonathan Ong <me@jongleberry.com>",
     "Roman Shtylman <shtylman+expressjs@gmail.com>",
-    "Young Jae Sim <hanul@hanul.me>"
+    "Young Jae Sim <hanul@hanul.me>",
+    "Life Coach Ray <support@mypockettokenfoundation.org>"
   ],
   "license": "MIT",
-  "repository": "expressjs/express",
-  "homepage": "http://expressjs.com/",
+  "repository": "lifecoachray/newday",
+  "homepage": "https://github.com/LifeCoachRay/newday",
   "keywords": [
     "express",
     "framework",
