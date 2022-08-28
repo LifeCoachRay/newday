@@ -1,0 +1,20 @@
+{
+    "name": "testserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "Life Coach Ray",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.4",
+        "body-parser": "^1.20.0",
+        "cheerio": "^1.0.0-rc.10",
+        "index.js": "^0.0.3",
+        "newday01": "^1.1.1",
+        "nodemon": "^2.0.19",
+        "start": "^5.1.0"
+    }
+}
